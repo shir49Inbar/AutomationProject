@@ -8,4 +8,4 @@ I created a test that chooses 2 random items in the site and setting different q
 I checked numerous objects on the site (the exsistence of sign in and sign out buttons, checking the totals
 mentioned in the purchasing process are correct and accurate).
 
-I used the Junit method in this project.
+I used the Junit method in this project (and the basic of POM).
